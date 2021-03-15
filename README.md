@@ -1,6 +1,6 @@
 # COVID-19-Arabic-Emotion-Dataset
 <b>AraEmoCorpus:</b>
-The corpus contains more than 5.5 million tweets tagged with 6 emotion categories:
+The corpus contains more than 5.5 million Arabic tweets tagged with 6 emotion categories:
 1.	Anger
 2.	Disgust
 3.	Fear

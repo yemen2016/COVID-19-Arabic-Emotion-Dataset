@@ -1,22 +1,23 @@
 # COVID-19-Arabic-Emotion-Dataset
-AraEmoCorpus:
+<b>AraEmoCorpus:</b>
 The corpus contains more than 5.5 million tweets tagged with 6 emotion categories:
-Anger
-Disgust
-Fear
-Joy
-Sadness
-Surprise
+1.	Anger
+2.	Disgust
+3.	Fear
+4.	Joy
+5.	Sadness
+6.	Surprise
 
 The corpus is freely available for research purposes only. Kindly cite the following paper:
+</br>
+@article{al2021monitoring,</br>
+  title={Monitoring People’s Emotions and Symptoms from Arabic Tweets during the COVID-19 Pandemic},</br>
+  author={Al-Laith, Ali and Alenezi, Mamdouh},</br>
+  journal={Information},</br>
+  volume={12},</br>
+  number={2},</br>
+  pages={86},</br>
+  year={2021},</br>
+  publisher={Multidisciplinary Digital Publishing Institute}</br>
+}</br>
 
-@article{al2021monitoring,
-  title={Monitoring People’s Emotions and Symptoms from Arabic Tweets during the COVID-19 Pandemic},
-  author={Al-Laith, Ali and Alenezi, Mamdouh},
-  journal={Information},
-  volume={12},
-  number={2},
-  pages={86},
-  year={2021},
-  publisher={Multidisciplinary Digital Publishing Institute}
-}
